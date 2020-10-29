@@ -3,3 +3,8 @@ anything 1
 anything 1
 anything 1
 anything 1
+some line that is not in feature branch
+some line that is not in feature branch
+some line that is not in feature branch
+some line that is not in feature branch
+some line that is not in feature branch
