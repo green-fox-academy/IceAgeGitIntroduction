@@ -8,3 +8,8 @@ some line that is not on the master branch
 some line that is not on the master branch
 some line that is not on the master branch
 some line that is not on the master branch
+some line that is not in feature branch
+some line that is not in feature branch
+some line that is not in feature branch
+some line that is not in feature branch
+some line that is not in feature branch
