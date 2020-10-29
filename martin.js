@@ -1,3 +1,3 @@
-function cheer() {
-	console.log('IceAge-Reddit');
+function cheer(personToCheer) {
+	console.log(personToCheer);
 }
