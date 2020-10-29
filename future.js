@@ -1,5 +1,5 @@
 var name = "Tomas";
 
 function future (name) {
-  console.log(name + " is vodnar")
+  console.log(name + " is byk")
 }
