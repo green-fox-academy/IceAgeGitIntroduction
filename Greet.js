@@ -1,7 +1,7 @@
-var myName = "Jirinka";
+var myName = "Andrejka";
 
 function myNameIs (name) {
-    console.log("New Greetings from Andrejka");
+    console.log("New Greetings from " + name);
 }
 
 myNameIs(myName);
