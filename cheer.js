@@ -1,3 +1,3 @@
-function cheer(personToCheer) {
-	console.log("bordel");
+function cheer(cheer) {
+	console.log(cheer);
 }
