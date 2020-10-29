@@ -2,6 +2,6 @@
 
 var myBirthMonth = 4;
 
-function count (){
-  console.log("1 2 3 4 5");
+function count(parameter) {
+  console.log(`Counting the countless + ${parameter}`);
 }
