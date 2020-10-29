@@ -1,15 +1,1 @@
-anything 1
-anything 1
-anything 1
-anything 1
-anything 1
-some line that is not on the master branch
-some line that is not on the master branch
-some line that is not on the master branch
-some line that is not on the master branch
-some line that is not on the master branch
-some line that is not in feature branch
-some line that is not in feature branch
-some line that is not in feature branch
-some line that is not in feature branch
-some line that is not in feature branch
+Some lines that will be in GUI
