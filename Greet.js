@@ -1,4 +1,4 @@
-var myName = "Slim Shady";
+var myName = "Jirinka";
 
 function myNameIs (name) {
     console.log("Greetings");
