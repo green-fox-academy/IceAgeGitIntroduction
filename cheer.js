@@ -1,7 +1,3 @@
-function cheer(cheerText, name) {
-	console.log(`${cheerText} + ${name}!`);
-}
-
-function cheer(cheer) {
-	console.log("Cheer for the " + cheer);
+function cheer(name) {
+	console.log("Cheer for the " + name);
 }
