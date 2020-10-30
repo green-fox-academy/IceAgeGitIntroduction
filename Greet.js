@@ -1,7 +1,8 @@
 var myName = "Andrejka";
+var greeting = "Hello";
 
-function myNameIs (name) {
-    console.log("New Greetings from " + name);
+function myNameIs (greeting, name) {
+    console.log(greeting + ", my name is " + name);
 }
 
-myNameIs(myName);
+myNameIs(greeting, myName);
